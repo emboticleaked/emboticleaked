@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @emboticleaked
+- 👀 I’m interested in leaking internals of embotic
